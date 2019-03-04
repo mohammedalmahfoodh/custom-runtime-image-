@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/another.messenger/com.another.messenger.iml" filepath="$PROJECT_DIR$/another.messenger/com.another.messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger.iml" filepath="$PROJECT_DIR$/logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger.example/logger.example.iml" filepath="$PROJECT_DIR$/logger.example/logger.example.iml" />
+    </modules>
+  </component>
+</project>
