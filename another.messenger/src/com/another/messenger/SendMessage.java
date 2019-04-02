@@ -3,6 +3,6 @@ package com.another.messenger;
 public class SendMessage {
     public String sendMessage(){
 
-        return "this is a message from another.module to logger.example module";
+        return "this is a message from another.module ";
     }
 }

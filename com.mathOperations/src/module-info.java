@@ -1,2 +1,5 @@
-module $MODULE_NAME$ {
+module com.mathOperations {
+    exports com.mathOperations.calculation;
+
+
 }
